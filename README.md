@@ -1,3 +1,4 @@
+Overview:
 The Weather App is a simple yet powerful web application built using HTML, CSS, and JavaScript. It allows users to enter the name of a city and get real-time weather information like temperature, weather condition, humidity, and wind speed using an external weather API.
 
 🔹 Features:
